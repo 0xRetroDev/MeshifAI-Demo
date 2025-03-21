@@ -1,7 +1,5 @@
 # MeshifAI - Image to 3D Model Converter
 
-![MeshifAI Logo](public/favicon-32x32.png)
-
 ## Overview
 
 MeshifAI is a web application that transforms 2D images into detailed 3D models using Tencent's **HunYuan3D-2** AI model. This project demonstrates the capabilities of modern AI-powered 3D conversion technology in a user-friendly interface.
@@ -12,7 +10,7 @@ MeshifAI is a web application that transforms 2D images into detailed 3D models 
 
 ## Features
 
-- **Easy Image Upload** - Upload any image up to 10MB (JPG, PNG, WebP, GIF)
+- **Easy Image Upload** - Upload any image up to 10MB (JPEG, JPG, PNG,)
 - **Customizable Generation Settings**:
   - Model Quality Control (steps)
   - Guidance Scale for creative vs precise outputs
