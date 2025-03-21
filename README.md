@@ -1,3 +1,5 @@
+_As of 22/03/2025 the provider for the model has become fairly unreliable which causes the models to not generate at all - I've reached out to see what their future plans are_
+
 # MeshifAI - Image to 3D Model Converter
 
 ## Overview
