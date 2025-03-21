@@ -6,8 +6,6 @@ _As of 22/03/2025 the provider for the model has become fairly unreliable which 
 
 MeshifAI is a web application that transforms 2D images into detailed 3D models using Tencent's **HunYuan3D-2** AI model. This project demonstrates the capabilities of modern AI-powered 3D conversion technology in a user-friendly interface.
 
-**Live Demo:** [MeshifAI Demo](https://meshifai.example.com)
-
 ![image](https://github.com/user-attachments/assets/038a6576-856b-4421-a495-a3063f25ba7a)
 
 ## Features
